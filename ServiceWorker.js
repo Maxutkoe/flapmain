@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Flap-1.0";
 const contentToCache = [
-    "Build/апв.loader.js",
-    "Build/апв.framework.js",
-    "Build/апв.data",
-    "Build/апв.wasm",
+    "Build/final.loader.js",
+    "Build/final.framework.js",
+    "Build/final.data",
+    "Build/final.wasm",
     "TemplateData/style.css"
 
 ];
